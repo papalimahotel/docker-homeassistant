@@ -1,2 +1,3 @@
 # docker-homeassistant
-Home Assistant containet
+Home Assistant container
+https://www.home-assistant.io/
